@@ -13,3 +13,6 @@
 * [tm1helper](https://github.com/CarpeDatumInc/tm1helper) : VSCode syntax highlighters, code completion and snippets for TM1/Planning Analytics rule and process development
 * [tm1-sublime](https://github.com/hermie64/tm1-sublime) : IBM Cognos TM1 syntax highlighting for Sublime Text
 * [Sublime-TM1](https://github.com/ajmyers/Sublime-TM1) : Sublime-TM1 is a Sublime Text 3 add-in that assists TM1 / Planning Analytics developers
+
+## TM1 in China Marketing
+* [IBM TM1在中国的市场份额是否很小？有人使用过TM1吗?](https://www.zhihu.com/question/19835774/answer/89423947)
