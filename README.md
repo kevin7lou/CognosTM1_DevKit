@@ -1,6 +1,6 @@
 # Cognos TM1 Developer Kit
 
-![](https://cdn.turkaramamotoru.com/ru/tm1-3014.jpg)
+![Cognos TM1](https://img.crx4chrome.com/50/14/55/pfcpjkoiknombhfcjnjihpafmkhmdcjb-screenshot.jpg)
 
 ## About this project
 
